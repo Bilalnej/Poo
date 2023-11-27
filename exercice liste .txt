@@ -1,0 +1,84 @@
+
+ex1:
+Soit L une liste de N réels. L’objectif est de calculer le nombre des occurrences
+ d’un nombre X (c’est-à-dire combien de fois ce nombre X figure dans la liste L). 
+_______________________________________
+ex2:
+ L est une liste de n entiers. Proposer un programme qui permet le remplissage
+de la liste L, puis affiche le nombre de valeurs négatives et le nombre de valeurs positives. 
+
+Exemple d’exécution :
+Donner n : 6
+Remplir L : 1 -5  -9  3   4  6
+Le nombre des nombres positifs : 4
+Le nombre des nombres négatifs : 2
+_________________________________________
+ex3:
+On suppose qu’on a L une liste remplie par des réels. On veut remplir deux  listes L1 et L2
+à partir de la liste L tel que : 
+
+1- les nombres pairs dans L seront copiés dans L1. 
+2- Le reste dans L2
+Exemple d’exécution :
+Donner le nombre des éléments à insérer : 10
+ Résultat :  
+L :  -9  1  6  14  -8  100  3  44  63  10
+L1 :  6  14  -8  100  44   10  
+L2 : -9  1  3  63  
+______________________________________ 
+ex4:
+On a une liste L de N réels. L’objectif est  de: 
+Remplir le liste L
+Copier le contenu de la liste L dans une autre liste L1
+afficher le contenu de L et L1
+modifier le dernier élément de L .Puis, Réafficher les contenus de L et L1
+___________________________________________
+ex5:
+Proposer un programme qui permet de construire une liste L, à partir de deux
+ L1 et L2 préalablement remplies. chaque élément de la nouvelle liste L représente
+ la somme des éléments des deux listes de départ. 
+Exemple d’exécution :
+Donner la taille : 6
+Remplir L1 :  1  2  3  4  5   6
+Remplir L2 :  -9  4  0  1 -8  10
+Le Résultat :  L : -8  6  3  5  -3  16
+__________________________________________
+ex6:
+On suppose que la liste L est déjà remplie et ordonnée. On va : 
+– Demander un nombre à insérer
+– Insérer le nombre dans la position adéquate (c à d, de telle façon à ce que la liste reste ordonné)
+– Affiche la liste après insertion du nouveau nombre 
+Exemple d’exécution :
+Remplissage de L :   1  4  5  10  20  22  25  30  32     Donner x : 7
+L après insertion :  1  4  5  7   10  20  22  25  30  32  
+________________________________________________
+ex7:
+comparaison entre deux liste
+On veut comparer les deux listes L1 et L2 et afficher ‘ Listes identiques’ si on a le même 
+contenu dans les deux listes et ‘ listes non identiques ‘ sinon.
+Exemple d’exécution :
+Remplir L1 :  1  2  3  4  5  6  7  8  9  10  11  12 13  14  15  16  17  18  19  20
+Remplir L2 :  1  2  3  4  5  6  7  8  9  10  11  12 13  14  15  16  17  18  19  20
+Résultat : Listes identiques
+____________________________________________
+ex8:
+Dans la liste suivante supprimer  le premier élément 20 :
+Liste=[10, 20,10, 30, 10,40 ,60]
+Afficher les résultats
+_______________________________________________
+ex9:
+Considérons la liste suivante :
+liste=[ "lundi", "lundi", "lundi", "mardi", "mercredi","lundi"]
+Crée la liste ensuite effacer tous  les éléments « lundi » dans la liste et après afficher la liste.
+_________________________________________________
+ex10:
+Exercice1 :
+ nous allons lire les notes de ahmad et khalid dans n matières
+ (coefficient =1 pour chaque matière). on veut afficher les moyennes
+ d’ahmad et khalid puis le nom de celui ayant
+la meilleure moyenne
+solution :
+Entrées : notes ahmad , notes khalid, nombre des matières
+Traitements : calcul moyennes (ahmad et khalid) , trouver le premier
+Sortie : afficher moyennes et le nom du premier
+

@@ -1,0 +1,39 @@
+Exercice 1 :
+- Création d'un dictionnaire
+Créez un dictionnaire représentant les informations sur une personne, 
+avec des clés telles que "nom", "âge" et "ville".
+-Accès aux valeurs d'un dictionnaire
+Accédez aux valeurs du dictionnaire précédent en utilisant les clés.
+-Modification de valeurs dans un dictionnaire
+Modifiez la valeur de l'âge dans le dictionnaire pour le mettre à 26.
+-Ajout de nouvelles entrées
+Ajoutez une nouvelle entrée au dictionnaire, par exemple, 
+la clé "profession" avec la valeur "ingénieur".
+-Suppression d'une entrée
+Supprimez la clé "ville" du dictionnaire.
+-Parcours des clés et des valeurs
+Parcourez les clés et les valeurs du dictionnaire et imprimez-les.
+-Vérification de l'existence d'une clé
+Vérifiez si la clé "profession" existe dans le dictionnaire.
+-Compter les occurrences d'un élément
+__________________________
+Exercice 2 : 
+-Créer un dictionnaire d contenant les clés nom et prenom et 
+les valeurs "John" et "Doe".
+-Afficher la valeur associée à la clé nom du dictionnaire d.
+-Ajouter la clé age et la valeur 30 au dictionnaire d.
+-Supprimer la clé nom du dictionnaire d.
+-Vérifier si la clé nom existe dans le dictionnaire d.
+-Afficher toutes les clés du dictionnaire d.
+-Afficher toutes les valeurs du dictionnaire d.
+-Afficher toutes les clés et les valeurs du dictionnaire d.
+
+
+
+
+
+
+
+
+
+
